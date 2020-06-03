@@ -12,7 +12,7 @@ Mobile game <br ><br >
 <br ><br >
 **Video**<br >
 <a href="https://www.youtube.com/watch?v=XqpxK2gGRCE" target="_blank"><img src="https://img.youtube.com/vi/XqpxK2gGRCE/maxresdefault.jpg" 
-alt="" width="150" border="10" /></a>
+alt="" width="400" border="10" /></a>
 <br ><br >
 **Short description**<br >
 Tap to turn. Avoid obstacles. Very interesting levels, like really :)
